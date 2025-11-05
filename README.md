@@ -29,7 +29,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Capa moderna e minimalista para um eBook digital sobre rotina e produtividade diária. Mostre um ambiente calmo e organizado, com elementos que simbolizem foco, disciplina e equilíbrio, como um caderno, xícara de café, relógio, calendário e luz natural entrando pela janela. Paleta de cores suaves (tons de bege, azul-claro e branco). Tipografia limpa e elegante. Estilo editorial contemporâneo, visual equilibrado e inspirador, adequado para redes sociais e marketing digital. |
 
 ## ✨ Features
 
